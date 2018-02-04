@@ -37,7 +37,7 @@ Atribuição de valores
 ```sh
 // pega os dos valores na tela e guarda em uma variável
     string valor1 = driver.FindElement(By.Id("number1")).Text;
-    string valor2 = driver.FindElement(By.Id("number2")).Text;
+   string valor2 = driver.FindElement(By.Id("number2")).Text;
 
 // transforma os resultados em um número inteiro para a soma
     int resultadoInt = Int32.Parse(valor1) + Int32.Parse(valor2);
