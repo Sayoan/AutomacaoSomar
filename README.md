@@ -5,6 +5,8 @@
 
   - Visual Studio Enterprise (Instalar UnitTestAdaptor, Nunit e Selenium)
   - Chrome Driver (http://www.seleniumhq.org/download/)
+  - Se necessário instalar "NUnit Test Adapter"
+   ```Tools -> Extensions And Updates -> Online -> Search for "Nunit Test Adapter" -> Click on "NUnit Test Adapter" in results list -> Click on Download button ```
 
 # Principais assuntos
   - Assert
